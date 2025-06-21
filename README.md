@@ -93,4 +93,5 @@ See you later!
 -It matches user messages with predefined responses and runs in a loop until the user types "quit" or "exit".
 
 📌OUTPUT:
+![Image](https://github.com/user-attachments/assets/4105a1a1-6d96-4558-aa82-b4165a4026ee)
 
